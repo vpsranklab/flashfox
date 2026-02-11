@@ -6,7 +6,7 @@ https://vpsworld.org/fanqiang-ranking/
 
 ---
 
-[闪狐云 Flash Fox](https://inv02.ffaff.cc/register?aff=Q1NgBTYd)，海外团队运营，通过五大运营商 BGP+IPLC 动态优化和国际多个出口节点，采用TLS协议加密技术，保障网络连接稳定无忧。全部节点解锁 ChatGPT、Netflix、TikTok 等。
+[闪狐云 Flash Fox](https://i01.ffaff.cc/register?aff=Q1NgBTYd)，海外团队运营，通过五大运营商 BGP+IPLC 动态优化和国际多个出口节点，采用TLS协议加密技术，保障网络连接稳定无忧。全部节点解锁 ChatGPT、Netflix、TikTok 等。
 
 - 主要协议：Trojan
 - BGP 隧道中转，IPLC 高速内网专线出口，1000Mbps 速率
@@ -22,7 +22,7 @@ https://vpsworld.org/fanqiang-ranking/
 
 ## 官方网站
 
-[https://flashfox.pro/dashboard](https://inv02.ffaff.cc/register?aff=Q1NgBTYd)
+[https://flashfox.pro/dashboard](https://i01.ffaff.cc/register?aff=Q1NgBTYd)
 
 ## 订阅列表
 
